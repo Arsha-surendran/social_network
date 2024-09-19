@@ -1,0 +1,9 @@
+Django>=3.0,<4.0
+djangorestframework>=3.12
+psycopg2-binary>=2.8
+django-redis>=4.12
+
+
+"""""""""Sorry, I haven't completed this social network project because I don't know Docker Compose,
+and this is my first project using it. I haven't installed Docker Desktop on my Windows machine,
+and my project isn't working due to significant network issues.""""""""""
